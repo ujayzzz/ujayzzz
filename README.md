@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ujayzzz
 - 👀 I have a bit interest in python language
 - 🌱 I’m currently learning Programming language
-- 💞️ I’m not looking to collaborate just learning
+- 💞️ I’m not looking to collaborate
 - 📫 How to reach me https://steamcommunity.com/id/ujayzz63/
 
 <!---
